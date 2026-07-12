@@ -1,4 +1,4 @@
-# Azure-Landing-Zone-CI-CD-Pipeline-Policy-as-Code-Gates
+# Azure Landing Zone CI/CD Pipeline (Policy as Code) Gates
 A reusable **GitHub Actions** pipeline template that enforces security, governance,
 and cost guardrails on Azure infrastructure (Bicep or Terraform) **before** it
 ever reaches Azure — not after.
